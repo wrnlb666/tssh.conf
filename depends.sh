@@ -3,4 +3,5 @@
 depends=(
     'ssh'
     'tssh' # trzsz-ssh
+    'bitwarden-desktop'
 )
